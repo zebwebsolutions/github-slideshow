@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our zebwebsolution's slide!"
 ---
-The quick brown fox jumps over the lazy dog.
+All that glitter is not gold.
 Use the left arrow to go back!
